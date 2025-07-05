@@ -1,0 +1,14 @@
+body {
+   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    text-align:center;
+    color: whitesmoke;
+  font-family: "Bitcount Grid Double", system-ui;
+  font-optical-sizing: 100px;
+  font-style: normal;
+  font-size: 40px;
+}
+
+img {
+    width: 500px;
+    height: 500px
+}
